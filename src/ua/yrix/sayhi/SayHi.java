@@ -18,5 +18,6 @@ public class SayHi {
             } else System.out.println("Ви ввели не парне число");
             break;
         }
+        scaner.close();
     }
 }
